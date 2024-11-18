@@ -1,5 +1,7 @@
 # My homebrew formulae
 
+`Copyright (c) Aarav Darbari <aarvd2030@gmail.com>`
+
 ## How to add these to your homebrew
 
 `brew tap aa830/formulae`
